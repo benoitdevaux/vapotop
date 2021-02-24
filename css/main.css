@@ -1,0 +1,15 @@
+.l-header {
+  background-color: #3D3D3B;
+}
+
+.l-logo {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.l-logo__img {
+  max-height: 5%;
+  max-width: 5%;
+}
+/*# sourceMappingURL=main.css.map */
