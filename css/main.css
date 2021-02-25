@@ -1,5 +1,8 @@
 .l-header {
   background-color: #3D3D3B;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
 }
 
 .l-logo {
@@ -11,5 +14,9 @@
 .l-logo__img {
   max-height: 5%;
   max-width: 5%;
+}
+
+.l-logo__title {
+  font-family: "Raleway", sans-serif;
 }
 /*# sourceMappingURL=main.css.map */

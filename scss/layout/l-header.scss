@@ -1,4 +1,4 @@
-$background: #3D3D3B;
+@use 'settings/variables.scss';
 
 .l-header {
     background-color: $background;
