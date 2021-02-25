@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <title>Vapotop</title>
+    <link rel="stylesheet" href="css/main.css"/>
+    <link rel="icon" href="svg/electronic-cigarette.svg"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;700;900&display=swap" rel="stylesheet">
+</head>
+<header class="l-header">
+    <div class="l-logo">
+        <img class="l-logo__img" alt="logo" src="svg/electronic-cigarette.svg"/>
+        <h1 class="l-logo__title">Vapotop</h1>
+    </div>
+    <nav class="l-nav">
+        <ul class="o-list">
+            <li class="o-list__item"><a href="index.html">Accueil</a></li>
+            <li class="o-list__item"><a href="galerie.html">Galerie</a></li>
+            <li class="o-list__item--selected"><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+<body>
+    <section class="o-section">
+        <h2 class="o-section__title">Contactez-nous</h2>
+        <form class="o-form" method="POST" action="#">
+            <input class="o-form__input" type="text" name="lastname" placeholder="Nom"/>
+            <input class="o-form__input" type="text" name="firstname" placeholder="Prénom"/>
+            <input class="o-form__input" type="text" name="email" placeholder="E-Mail"/>
+            <textarea class="o-form__textarea" name="message" placeholder="Bonjour, je vous contact..."></textarea>  
+            <input class="o-form__submit" type="submit" value="Envoyer"/>           
+        </form>
+    </section>
+</body>
