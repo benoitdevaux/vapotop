@@ -3,20 +3,55 @@
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  max-height: 5rem;
 }
 
 .l-logo {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  margin: 1rem;
 }
 
 .l-logo__img {
-  max-height: 5%;
-  max-width: 5%;
+  max-width: 10%;
 }
 
 .l-logo__title {
   font-family: "Raleway", sans-serif;
+  font-weight: 900;
+  margin: auto 0 auto 1rem;
+  color: #fff;
+}
+
+.l-nav {
+  margin: auto 0 auto 0;
+}
+
+.o-list {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.o-list__item {
+  list-style: none;
+}
+
+.o-list__link {
+  padding: 1.9rem;
+  color: #fff;
+  text-decoration: none;
+}
+
+.u-selected-background {
+  background: -webkit-gradient(linear, left top, right top, from(#0BB1D3), color-stop(#5173E8), to(#9F2FFF));
+  background: linear-gradient(to right, #0BB1D3, #5173E8, #9F2FFF);
+}
+
+.u-uppercase {
+  text-transform: uppercase;
 }
 /*# sourceMappingURL=main.css.map */

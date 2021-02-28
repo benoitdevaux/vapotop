@@ -1,6 +1,7 @@
-@use 'settings/variables.scss';
+@import "../settings/variables.scss";
 
 .l-header {
     background-color: $background;
     display: flex;
+    max-height: 5rem;
 }

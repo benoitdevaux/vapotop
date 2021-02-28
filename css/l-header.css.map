@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,SAAS,CAAC;EACN,gBAAgB,ECCP,OAAO;EDAhB,OAAO,EAAE,IAAI;EACb,UAAU,EAAE,IAAI;CACnB",
+    "sources": [
+        "../scss/layout/l-header.scss",
+        "../scss/settings/variables.scss"
+    ],
+    "names": [],
+    "file": "l-header.css"
+}

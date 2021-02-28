@@ -1,0 +1,18 @@
+.l-logo {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 1rem;
+}
+
+.l-logo__img {
+  max-width: 10%;
+}
+
+.l-logo__title {
+  font-family: "Raleway", sans-serif;
+  font-weight: 900;
+  margin: auto 0 auto 1rem;
+  color: #fff;
+}
+/*# sourceMappingURL=l-logo.css.map */

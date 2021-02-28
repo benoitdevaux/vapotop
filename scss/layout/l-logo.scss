@@ -1,15 +1,17 @@
-@use 'settings/variables.scss';
+@import "../settings/variables.scss";
 
 .l-logo {
     display: flex;
+    margin: 1rem;
     
     &__img {
-        max-height: 10%;
         max-width: 10%;
     }
     
     &__title {
         font-family: $font;
         font-weight: $font-black;
+        margin: auto 0 auto 1rem;
+        color: $header-text;
     }
 }
