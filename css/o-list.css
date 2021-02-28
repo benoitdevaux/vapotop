@@ -1,0 +1,18 @@
+.o-list {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.o-list__item {
+  list-style: none;
+}
+
+.o-list__link {
+  padding: 1.9rem;
+  color: #fff;
+  text-decoration: none;
+}
+/*# sourceMappingURL=o-list.css.map */

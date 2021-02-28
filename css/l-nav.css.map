@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,MAAM,CAAC;EACH,MAAM,EAAE,aACZ;CAAC",
+    "sources": [
+        "../scss/layout/l-nav.scss",
+        "../scss/settings/variables.scss"
+    ],
+    "names": [],
+    "file": "l-nav.css"
+}

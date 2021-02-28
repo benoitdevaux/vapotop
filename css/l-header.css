@@ -3,5 +3,6 @@
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  max-height: 5rem;
 }
 /*# sourceMappingURL=l-header.css.map */
