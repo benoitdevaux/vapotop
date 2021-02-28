@@ -1,0 +1,10 @@
+@import "../settings/variables.scss";
+
+.o-section {
+    &__title {
+        font-family: $font;
+        font-weight: $font-semi-bold;
+        border-bottom: solid .25rem $border-bottom;
+        max-width: 13rem;
+    }
+}
