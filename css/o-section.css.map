@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAGK,AAAD,iBAAQ,CAAC;EACL,WAAW,ECJZ,SAAS,EAAE,UAAU;EDKpB,WAAW,ECHF,GAAG;EDIZ,aAAa,EAAE,KAAK,CAAC,OAAM,CCCnB,OAAO;EDAf,SAAS,EAAE,KAAK;CACnB",
+    "sources": [
+        "../scss/object/o-section.scss",
+        "../scss/settings/variables.scss"
+    ],
+    "names": [],
+    "file": "o-section.css"
+}
