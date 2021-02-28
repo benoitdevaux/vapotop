@@ -1,0 +1,10 @@
+@import "variables.scss"
+
+.o-list {
+    display: flex;
+
+    &__item {
+        list-style: none;
+        color: $nav-text;
+    }
+}
