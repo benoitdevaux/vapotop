@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,SAAS,CAAC;EACN,gBAAgB,ECCP,OAAO;EDAhB,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,aAAa;CAQjC;;AANI,AAAD,eAAO,CAAC;EACJ,WAAW,ECRZ,SAAS,EAAE,UAAU;EDSpB,KAAK,ECDC,OAAO;EDEb,WAAW,ECRF,GAAG;EDSZ,MAAM,EAAE,gBAAgB;CAC3B",
+    "sources": [
+        "../scss/layout/l-footer.scss",
+        "../scss/settings/variables.scss"
+    ],
+    "names": [],
+    "file": "l-footer.css"
+}

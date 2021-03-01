@@ -1,0 +1,28 @@
+.o-card {
+  display: -ms-grid;
+  display: grid;
+  -webkit-column-gap: 3rem;
+          column-gap: 3rem;
+  -ms-grid-columns: (1fr)[3];
+      grid-template-columns: repeat(3, 1fr);
+  margin-top: 3rem;
+}
+
+.o-card__inner {
+  margin-left: 4rem;
+}
+
+.o-card__img {
+  max-width: 85%;
+}
+
+.o-card__title {
+  color: #5173E8;
+  font-family: "Raleway", sans-serif;
+}
+
+.o-card__text {
+  font-family: "Raleway", sans-serif;
+  max-width: 83%;
+}
+/*# sourceMappingURL=o-card.css.map */

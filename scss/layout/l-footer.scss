@@ -1,0 +1,14 @@
+@import "../settings/variables.scss";
+
+.l-footer {
+    background-color: $background;
+    display: flex;
+    justify-content: space-between;
+
+    &__text {
+        font-family: $font;
+        color: $title-color;
+        font-weight: $font-semi-bold;
+        margin: auto 0 auto 2rem;
+    }
+}

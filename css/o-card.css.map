@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,OAAO,CAAC;EACJ,OAAO,EAAE,IAAI;EACb,UAAU,EAAE,IAAI;EAChB,qBAAqB,EAAE,cAAc;EACrC,UAAU,EAAE,IAAI;CAmBnB;;AAjBI,AAAD,cAAQ,CAAC;EACL,WAAW,EAAE,IAAI;CACpB;;AAEA,AAAD,YAAM,CAAC;EACH,SAAS,EAAE,GAAG;CACjB;;AAEA,AAAD,cAAQ,CAAC;EACL,KAAK,ECTC,OAAO;EDUb,WAAW,EClBZ,SAAS,EAAE,UAAU;CDmBvB;;AAEA,AAAD,aAAO,CAAC;EACJ,WAAW,ECtBZ,SAAS,EAAE,UAAU;EDuBpB,SAAS,EAAE,GAAG;CACjB",
+    "sources": [
+        "../scss/object/o-card.scss",
+        "../scss/settings/variables.scss"
+    ],
+    "names": [],
+    "file": "o-card.css"
+}
