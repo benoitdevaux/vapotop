@@ -63,7 +63,7 @@
 }
 
 .o-list__link {
-  padding: 23% 2rem;
+  padding: 1.9rem 2rem;
   color: #fff;
   text-decoration: none;
 }
@@ -118,6 +118,29 @@
 .o-card__text {
   font-family: "Raleway", sans-serif;
   max-width: 83%;
+}
+
+.o-galerie {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (1fr)[3];
+      grid-template-columns: repeat(3, 1fr);
+  -ms-grid-rows: (1fr)[2];
+      grid-template-rows: repeat(2, 1fr);
+  -webkit-column-gap: 1rem;
+          column-gap: 1rem;
+  row-gap: 2rem;
+  margin-top: 2rem;
+}
+
+.o-galerie__img {
+  max-width: 90%;
+}
+
+.o-galerie__img--down {
+  -ms-grid-row: 2;
+  grid-row: 2;
+  max-width: 90%;
 }
 
 .u-gradient {

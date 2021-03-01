@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,UAAU,CAAC;EACP,OAAO,EAAE,IAAI;EACb,qBAAqB,EAAE,cAAc;EACrC,kBAAkB,EAAE,cAAc;EAClC,UAAU,EAAE,IAAI;EAChB,OAAO,EAAE,IAAI;EACb,UAAU,EAAE,IAAI;CAUnB;;AARI,AAAD,eAAM,CAAC;EACH,SAAS,EAAE,GAAG;CAMjB;;AAJI,AAAD,qBAAO,CAAC;EACJ,QAAQ,EAAE,CAAC;EACX,SAAS,EAAE,GAAG;CACjB",
+    "sources": [
+        "../scss/object/o-galerie.scss",
+        "../scss/settings/variables.scss"
+    ],
+    "names": [],
+    "file": "o-galerie.css"
+}
