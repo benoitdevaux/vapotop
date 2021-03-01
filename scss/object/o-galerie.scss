@@ -1,0 +1,19 @@
+@import "../settings/variables.scss";
+
+.o-galerie {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    column-gap: 1rem;
+    row-gap: 2rem;
+    margin-top: 2rem;
+
+    &__img {
+        max-width: 90%;
+
+        &--down {
+            grid-row: 2;
+            max-width: 90%;
+        }
+    }
+}

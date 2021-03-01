@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAGK,AAAD,cAAQ,CAAC;EACL,MAAM,EAAE,IAAI;EACZ,aAAa,EAAE,qBAAqB;EACpC,OAAO,EAAE,KAAK;EACd,MAAM,EAAE,MAAM;EACd,aAAa,EAAE,GACnB;CAAC;;AAEA,AAAD,iBAAW,CAAC;EACR,OAAO,EAAE,KAAK;EACd,aAAa,EAAE,IAAI;EACnB,OAAO,EAAE,WAAW;CACvB;;AAEA,AAAD,cAAQ,AAAA,MAAM,CAAC;EACX,OAAO,EAAE,IAAI;EACb,aAAa,EAAE,KAAK,CAAC,MAAK,CCTd,OAAO;CDUtB",
+    "sources": [
+        "../scss/object/o-form.scss",
+        "../scss/settings/variables.scss"
+    ],
+    "names": [],
+    "file": "o-form.css"
+}
