@@ -1,0 +1,17 @@
+.l-footer {
+  background-color: #3D3D3B;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.l-footer__text {
+  font-family: "Raleway", sans-serif;
+  color: #5173E8;
+  font-weight: 700;
+  margin: auto 0 auto 2rem;
+}
+/*# sourceMappingURL=l-footer.css.map */

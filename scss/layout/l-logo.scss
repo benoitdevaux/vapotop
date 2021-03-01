@@ -6,6 +6,11 @@
     
     &__img {
         max-width: 10%;
+
+        &--footer {
+            width: 15%;
+            margin-right: 2rem;
+        }
     }
     
     &__title {
