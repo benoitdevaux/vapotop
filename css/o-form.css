@@ -1,0 +1,19 @@
+.o-form__input {
+  border: none;
+  border-bottom: solid .1rem #0000006b;
+  display: block;
+  margin: 2rem 0;
+  padding-right: 10%;
+}
+
+.o-form__textarea {
+  display: block;
+  margin-bottom: 2rem;
+  padding: 0 10% 10% 0;
+}
+
+.o-form__input:focus {
+  outline: none;
+  border-bottom: solid 0.2rem #0BB1D3;
+}
+/*# sourceMappingURL=o-form.css.map */

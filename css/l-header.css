@@ -4,5 +4,8 @@
   display: -ms-flexbox;
   display: flex;
   max-height: 5rem;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
 }
 /*# sourceMappingURL=l-header.css.map */
