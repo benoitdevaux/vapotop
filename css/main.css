@@ -41,19 +41,36 @@
 }
 
 .o-list__link {
-  padding: 1.9rem;
+  padding: 23% 2rem;
   color: #fff;
   text-decoration: none;
+}
+
+.o-section {
+  margin: 3rem 3rem;
 }
 
 .o-section__title {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   border-bottom: solid 0.25rem #9F2FFF;
-  max-width: 13rem;
+  max-width: 20%;
+  text-align: center;
 }
 
-.u-selected-background {
+.o-section__content {
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;
+  max-width: 60%;
+}
+
+.o-section__iframe {
+  display: block;
+  margin: auto;
+  padding: 3rem 0;
+}
+
+.u-gradient {
   background: -webkit-gradient(linear, left top, right top, from(#0BB1D3), color-stop(#5173E8), to(#9F2FFF));
   background: linear-gradient(to right, #0BB1D3, #5173E8, #9F2FFF);
 }

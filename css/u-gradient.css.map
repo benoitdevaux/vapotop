@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,WAAW,CAAC;EACR,UAAU,ECGM,oDAAoD;CDFvE",
+    "sources": [
+        "../scss/utilities/u-gradient.scss",
+        "../scss/settings/variables.scss"
+    ],
+    "names": [],
+    "file": "u-gradient.css"
+}

@@ -1,0 +1,5 @@
+.u-gradient {
+  background: -webkit-gradient(linear, left top, right top, from(#0BB1D3), color-stop(#5173E8), to(#9F2FFF));
+  background: linear-gradient(to right, #0BB1D3, #5173E8, #9F2FFF);
+}
+/*# sourceMappingURL=u-gradient.css.map */
